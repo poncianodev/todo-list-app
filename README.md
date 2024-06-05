@@ -27,6 +27,7 @@ Por isso decidi fazer uma lista de tarefas, algo que desejo usar no meu dia a di
 - **Adicionar tarefas**
 - **Remover tarefas**
 - **Marcá-las como concluídas**
+- **Responsividade para todas as telas**
 
 <br>
 
